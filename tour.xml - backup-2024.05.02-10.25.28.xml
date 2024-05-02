@@ -25,7 +25,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="-17.686" vlookat="18.568" fovtype="MFOV" fov="111.456" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="-18.036" vlookat="29.078" fovtype="MFOV" fov="111.456" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/77-1.tiles/preview.jpg" />
 
@@ -34,7 +34,7 @@
 		</image>
 		<hotspot name="spot1" style="skin_hotspotstyle" rotate="-175" ath="-17.100" atv="21.693" distorted="false" zoom="false" linkedscene="scene_77-2" linkedscene_hoffset="180.0" use3dtransition="true" />
 		<hotspot type="image" name="spot3" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="-14.738" atv="6.404" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
-		<hotspot name="text" style="custom_hotspotext"  html="안동 하회 마을 " ath="-14.738" atv="2" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
+		<hotspot name="text" style="custom_hotspotext"  html="안동 하회 마을 " ath="-14.738" atv="3.404" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
 		<hotspot type="text" name="spot4" style="custom_hotspotext2"  html="낙동강 " ath="30.738" atv="9.404" distorted="false" zoom="false" />
 
 
